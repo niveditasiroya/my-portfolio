@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="py-5 pl-4 flex flex-col-reverse sm:flex-row sm:justify-around">
         <div>
           <p>
-            @2023 Alice Nobel <span>All Rights Reserved</span>
+            @2024 Nivedita Siroya <span>All Rights Reserved</span>
           </p>
         </div>
         <div className="flex flex-col sm:flex-row gap-4">

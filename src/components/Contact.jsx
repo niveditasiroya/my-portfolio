@@ -19,7 +19,7 @@ const Contact = forwardRef(({ myref }) => {
     <>
       <div className="bg-gray-100 " ref={contactRef}>
         <h2 className="pt-14 pb-14 text-3xl font-bold text-center underline">
-          Feel Free To Contact Us
+          Feel Free To Contact Me
         </h2>
         <div className="md:mx-8 flex flex-col md:flex-row">
           <div className="w-full">
