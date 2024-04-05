@@ -20,10 +20,11 @@ const Expertise = () => {
             <div className="w-2/3">
               <h1 className="mt-3 text-3xl">I love these technology</h1>
               <p className="mt-3 mb-5 hidden sm:block">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam
-                illo velit iure nihil odit eius iste obcaecati deleniti minima
-                repellendus! Ipsum, veniam pariatur! Doloribus quaerat nihil
-                optio alias cumque illum.
+                As a front-end developer, I specialize in crafting immersive web
+                experiences using HTML, CSS, and JavaScript. My portfolio
+                demonstrates my expertise in creating responsive interfaces and
+                dynamic applications that prioritize clean code and intuitive
+                user interactions.
               </p>
 
               <a
