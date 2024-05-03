@@ -115,7 +115,7 @@ const Header = ({ executeScroll }) => {
               </li>
             ))}
             <a
-              href="https://drive.google.com/file/d/1Bcf-92Ck1oULvwOsLEqKAg0KSun3DKoO/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1KvA1msN5iZz4u5lBGROazRMdrlR47CBv/view?usp=drivesdk"
               className=" px-4 py-2 bg-orange-400 rounded-full shadow-lg text-1xl"
             >
               Download CV
